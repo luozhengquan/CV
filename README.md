@@ -1,7 +1,3 @@
----
-title: "Zhengquan Luo's Personal Page"
-author: Zhengquan Luo
----
 
 # Zhengquan Luo
 *Department of Automation, University of Science and Technology of China*
