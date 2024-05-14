@@ -6,7 +6,7 @@ author: Zhengquan Luo
 # Zhengquan Luo
 *Department of Automation, University of Science and Technology of China*
 
-![Zhengquan Luo](data:image/jpeg;base64,{{BASE64_ENCODED_IMAGE}})
+![Zhengquan Luo](https://github.com/luozhengquan/CV/blob/main/lzq.jpg)
 
 ## About Me
 I am a Ph.D. candidate at the University of Science and Technology of China, specializing in federated learning, privacy-preserving computation, and distributed biometric systems.
